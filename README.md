@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Warisha</h1>
 <h3 align="center">
-B.Sc. Artificial Intelligence Student | Machine Learning & Data Science Enthusiast
+ Artificial Intelligence| Machine Learning & Data Science Enthusiast
 </h3>
 
 <p align="center">
