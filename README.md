@@ -11,7 +11,7 @@ analyzing data, and applying machine learning techniques to real-world problems.
 ---
 
 ### 👩‍💻 About Me
-- 🎓 Pursuing **Bachelor of Science in Artificial Intelligence**
+- 🎓  ** Artificial Intelligence**
 - 🌱 Currently learning **Machine Learning, Deep Learning, and Data Analysis**
 - 🔍 Interested in **AI, Computer Vision, and Data-Driven Solutions**
 - 📫 Reach me at **khanrimsha5009@gmail.com**
